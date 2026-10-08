@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Witch Cult Translations", 
+    "baseUrl": "https://witchculttranslation.com", 
+    "lang": "en",
+    "isManga": false,
+    "className": "WitchCultTranslations",
+    "sourceCodeLanguage": 1,
+    "version": "1.0.0",
+    "sourceCodeUrl": "https://raw.githubusercontent.com/Lucas-oss-777/Mangayomi-WCT/refs/heads/main/javascript/novel/witchcult.js"
+  } 
+]
